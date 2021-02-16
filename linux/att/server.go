@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/go-ble/ble"
+	"github.com/modular-id/ble"
 )
 
 type conn struct {

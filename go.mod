@@ -1,6 +1,6 @@
-module github.com/go-ble/ble
+module github.com/modular-id/ble
 
-go 1.13
+go 1.14
 
 require (
 	github.com/mattn/go-colorable v0.1.4 // indirect
